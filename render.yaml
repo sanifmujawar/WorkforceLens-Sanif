@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: retainwise-employee-attrition-insights
+    name: workforcelens-sanif
     runtime: docker
     plan: free
     region: frankfurt

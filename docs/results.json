@@ -1,0 +1,45 @@
+{
+  "Department": {
+    "eligible_n": 1470,
+    "total_n": 1470,
+    "eligible_strata": [
+      "Human Resources",
+      "Research & Development",
+      "Sales"
+    ],
+    "eligible_crude_gap_pp": 20.092413516274995,
+    "standardised_gap_pp": 20.049155359441684,
+    "standardised_rates": [
+      {
+        "OverTime": "No",
+        "rate_pct": 10.440143681207786
+      },
+      {
+        "OverTime": "Yes",
+        "rate_pct": 30.48929904064947
+      }
+    ]
+  },
+  "TenureBand": {
+    "eligible_n": 1470,
+    "total_n": 1470,
+    "eligible_strata": [
+      "0\u20131 years",
+      "11+ years",
+      "2\u20135 years",
+      "6\u201310 years"
+    ],
+    "eligible_crude_gap_pp": 20.092413516274995,
+    "standardised_gap_pp": 19.162633362094155,
+    "standardised_rates": [
+      {
+        "OverTime": "No",
+        "rate_pct": 10.581757742545399
+      },
+      {
+        "OverTime": "Yes",
+        "rate_pct": 29.744391104639554
+      }
+    ]
+  }
+}
